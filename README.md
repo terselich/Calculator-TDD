@@ -12,9 +12,16 @@ To run the program:
     
     - Create a directory named build
     - inside the directory run the following command
-    
+        ```
             cmake ..
+            make
+        ```    
+            ![Build](https://github.com/terselich/Calculator-TDD/blob/master/images/build_example.png?raw=true)
         
     - To run it
-            make
+        ```    
+            ./calc.exe
+        ```    
+            https://github.com/terselich/Calculator-TDD/blob/master/images/running_example.png?raw=true
+            
     
